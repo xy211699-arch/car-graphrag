@@ -1,4 +1,3 @@
-````markdown
 # Car-GraphRAG
 
 Car-GraphRAG 是一个面向汽车工业领域的知识图谱与智能问答项目。
